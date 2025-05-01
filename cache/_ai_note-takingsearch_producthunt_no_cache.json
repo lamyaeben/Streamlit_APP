@@ -1,0 +1,82 @@
+[
+    {
+        "title":"Wave AI Note Taker for iOS and Android",
+        "tagline":"Transcribe + Summarize audio and phone calls in any language",
+        "review":"13 reviews",
+        "rating":4.0,
+        "followers":"177 followers",
+        "more_details":"Wave is an iOS app that transcribes and summarizes recorded audio and phone calls, in any language. Wave is the essential tool for capturing and understanding critical information, anytime, anywhere."
+    },
+    {
+        "title":"VoicePen - AI Note Taker",
+        "tagline":"Native Speech to Text, Notes, Summaries, Study Materials",
+        "review":"4 reviews",
+        "rating":4.0,
+        "followers":"262 followers",
+        "more_details":"Say goodbye to traditional note-taking with VoicePen! Record and transcribe speech into text: from short memos to long lectures and meetings. Let AI turn recordings into easy-to-read notes, summaries, study materials, and more! Save watch time by creating summaries for YouTube videos and podcasts. Seamlessly works natively on all your Apple devices: iPhone, iPad, and Mac."
+    },
+    {
+        "title":"BeforeSunset AI",
+        "tagline":"Personalized AI daily planning that suits your life",
+        "review":"144 reviews",
+        "rating":5.0,
+        "followers":"6K followers",
+        "more_details":"BeforeSunset AI 2.0 offers personalized daily schedules using 5 proven planning techniques. Our AI algorithm crafts your schedule, syncing across web and mobile. Combining tasks, notes, and calendars, stay effortlessly organized in work and personal life."
+    },
+    {
+        "title":"Taskade",
+        "tagline":"Build a second brain for your team. Chat, organize, and get work done in one unified workspace.",
+        "review":"329 reviews",
+        "rating":4.0,
+        "followers":"2.3K followers",
+        "more_details":"Taskade simplifies the way your team works. Manage your tasks, organize in mind maps, write structured notes, and chat with your team in one unified space. Taskade is the simplest way to get things done. Our goal is simple, to help distributed teams get work done faster & smarter."
+    },
+    {
+        "title":"Bear",
+        "tagline":"Write Naturally",
+        "review":"107 reviews",
+        "rating":5.0,
+        "followers":"1K followers",
+        "more_details":"Bear is a beautiful, powerfully simple Markdown note taking app to capture, write, and organize your life. Take notes, plan your day, journal thoughts, organize tables, create lists and tasks, sketch ideas, link notes together, write a book, and much more. Bear is used by writers, lawyers, chefs, CEOs, teachers, doctors, engineers, students, parents... you get the picture. Getting started couldn't be faster—no signup and no account. Just open a note and write naturally."
+    },
+    {
+        "title":"Briefy",
+        "tagline":"Your AI knowledge assistant",
+        "review":"7 reviews",
+        "rating":4.0,
+        "followers":"1.1K followers",
+        "more_details":"Briefy is an AI knowledge assistant that streamlines daily information consumption for pro users. It distills complex information into structured summaries, organizes them into a knowledge base, and retrieves knowledge on demand with natural language."
+    },
+    {
+        "title":"General Task (Beta)",
+        "tagline":"Find what’s next in your workday.",
+        "review":"9 reviews",
+        "rating":4.0,
+        "followers":"968 followers",
+        "more_details":"General Task is the best way to take control of your workday. Prioritize your work using AI, integrate with your team’s task managers, see your pull requests, take notes, and plan your day with your calendar, all in one place."
+    },
+    {
+        "title":"Fathom",
+        "tagline":"Never Take Notes Again - #1 Rated AI Notetaker - Free",
+        "review":"532 reviews",
+        "rating":5.0,
+        "followers":"1.7K followers",
+        "more_details":"Fathom records, transcribes, and summarizes your meetings so you can focus on the conversation - #1 Rated AI Notetaker on G2 - Most installed AI Notetaker on Zoom and Hubspot marketplaces - Works with Zoom, Meet, and Microsoft Teams"
+    },
+    {
+        "title":"NONE",
+        "tagline":"NONE",
+        "review":"NONE",
+        "rating":null,
+        "followers":"NONE",
+        "more_details":"Bloks captures client conversations, integrates your documents, emails & trusted Internet sources, and proactively delivers insights directly into your CRM. Count on Bloks to connect the dots, so you can focus fully on clients - True Relationship Intelligence. The most discrete & versatile AI note-taker on the planet. Personalized pre-meeting briefs. No more CRM data entry. Your very own relationship ChatGPT."
+    },
+    {
+        "title":"NodeLand",
+        "tagline":"Experience Visual Thinking. Transform notes into mind maps",
+        "review":"0 reviews",
+        "rating":0.0,
+        "followers":"731 followers",
+        "more_details":"NodeLand: Revolutionizing Note-Taking with Dynamic Mind Maps *Mind maps from documents:* Transform PDFs, DOCs, and TXTs into summarized mind maps, making complex information easier to digest. *AI-Powered Mind Maps:* Get insights on any topic using the latest AI models, and improve your learning, brainstorming, and research. *Mind maps from Scratch:* Build your own ideas from the ground up, gaining a bird’s-eye view to see how concepts interconnect. Unlock the full potential of visual thinking."
+    }
+]

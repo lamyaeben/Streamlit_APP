@@ -1,0 +1,242 @@
+[
+    {
+        "name":"logseq-plugin-gpt3-openai",
+        "full_name":"briansunter\/logseq-plugin-gpt3-openai",
+        "description":"A plugin for GPT-3 AI assisted note taking in Logseq",
+        "stars":734,
+        "language":"TypeScript",
+        "html_url":"https:\/\/github.com\/briansunter\/logseq-plugin-gpt3-openai"
+    },
+    {
+        "name":"nebula",
+        "full_name":"berylliumsec\/nebula",
+        "description":"AI-powered penetration testing assistant for automating recon, note-taking, and vulnerability analysis.",
+        "stars":591,
+        "language":"Python",
+        "html_url":"https:\/\/github.com\/berylliumsec\/nebula"
+    },
+    {
+        "name":"notty",
+        "full_name":"Dhravya\/notty",
+        "description":"An open source, minimal AI powered note taking app and powerful markdown editor",
+        "stars":424,
+        "language":"TypeScript",
+        "html_url":"https:\/\/github.com\/Dhravya\/notty"
+    },
+    {
+        "name":"AppFlowy",
+        "full_name":"AppFlowy-IO\/AppFlowy",
+        "description":"Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+        "stars":62581,
+        "language":"Dart",
+        "html_url":"https:\/\/github.com\/AppFlowy-IO\/AppFlowy"
+    },
+    {
+        "name":"note-gen",
+        "full_name":"codexu\/note-gen",
+        "description":"A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.",
+        "stars":2069,
+        "language":"TypeScript",
+        "html_url":"https:\/\/github.com\/codexu\/note-gen"
+    },
+    {
+        "name":"reor",
+        "full_name":"reorproject\/reor",
+        "description":"Private & local AI personal knowledge management app for high entropy people.",
+        "stars":7879,
+        "language":"JavaScript",
+        "html_url":"https:\/\/github.com\/reorproject\/reor"
+    },
+    {
+        "name":"obsidian-systemsculpt-ai",
+        "full_name":"SystemSculpt\/obsidian-systemsculpt-ai",
+        "description":"Enhance your Obsidian App experience with AI-powered tools for note-taking, task management, and much, MUCH more.",
+        "stars":133,
+        "language":"TypeScript",
+        "html_url":"https:\/\/github.com\/SystemSculpt\/obsidian-systemsculpt-ai"
+    },
+    {
+        "name":"uxie",
+        "full_name":"zeus-12\/uxie",
+        "description":"pdf reader app with note taking, annotations, collaboration, ai features (chat, flashcards generation w. ai-feedbacks), tts and ocr.",
+        "stars":146,
+        "language":"TypeScript",
+        "html_url":"https:\/\/github.com\/zeus-12\/uxie"
+    },
+    {
+        "name":"obsidian-arcana",
+        "full_name":"A-F-V\/obsidian-arcana",
+        "description":"Supercharge your Obsidian note-taking through AI-powered insights and suggestions",
+        "stars":114,
+        "language":"TypeScript",
+        "html_url":"https:\/\/github.com\/A-F-V\/obsidian-arcana"
+    },
+    {
+        "name":"nota",
+        "full_name":"Bistard\/nota",
+        "description":"📕Next-Gen AI-powered markdown note-taking application.",
+        "stars":71,
+        "language":"TypeScript",
+        "html_url":"https:\/\/github.com\/Bistard\/nota"
+    },
+    {
+        "name":"obsidian",
+        "full_name":"drshahizan\/obsidian",
+        "description":"Obsidian.md stands out as an exceptional note-taking application tailored specifically for academic writing. This repository is part of the activities for the Systematic Literature Review using AI workshop.",
+        "stars":112,
+        "language":"HTML",
+        "html_url":"https:\/\/github.com\/drshahizan\/obsidian"
+    },
+    {
+        "name":"fylepad",
+        "full_name":"imrofayel\/fylepad",
+        "description":"an aesthetic AI notepad with Markdown.",
+        "stars":173,
+        "language":"TypeScript",
+        "html_url":"https:\/\/github.com\/imrofayel\/fylepad"
+    },
+    {
+        "name":"freenote",
+        "full_name":"celerforge-dev\/freenote",
+        "description":"Freenote is an open-source AI journal app with Markdown support. You can freely record your notes, and with AI assistance, easily search and summarize past entries, enhancing creativity capture and management. All data is stored locally on your device, ensuring privacy and security.",
+        "stars":145,
+        "language":"TypeScript",
+        "html_url":"https:\/\/github.com\/celerforge-dev\/freenote"
+    },
+    {
+        "name":"nextjs-ai-note-app",
+        "full_name":"AnthonyTlei\/nextjs-ai-note-app",
+        "description":"An intelligent note taking app built with Clerk, Next.js, OpenAI, Pinecone, Prisma, Shadcn UI and more.",
+        "stars":18,
+        "language":"TypeScript",
+        "html_url":"https:\/\/github.com\/AnthonyTlei\/nextjs-ai-note-app"
+    },
+    {
+        "name":"Neurite",
+        "full_name":"satellitecomponent\/Neurite",
+        "description":"Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.",
+        "stars":1712,
+        "language":"JavaScript",
+        "html_url":"https:\/\/github.com\/satellitecomponent\/Neurite"
+    },
+    {
+        "name":"Note-Taking-Ai-Assistance",
+        "full_name":"Francis-Mwaniki\/Note-Taking-Ai-Assistance",
+        "description":null,
+        "stars":3,
+        "language":"TypeScript",
+        "html_url":"https:\/\/github.com\/Francis-Mwaniki\/Note-Taking-Ai-Assistance"
+    },
+    {
+        "name":"NoteSpace-Backend",
+        "full_name":"One-Project-One-Week\/NoteSpace-Backend",
+        "description":"Your AI-Powered Note-Taking Universe",
+        "stars":5,
+        "language":"Python",
+        "html_url":"https:\/\/github.com\/One-Project-One-Week\/NoteSpace-Backend"
+    },
+    {
+        "name":"AI_Note_Taking",
+        "full_name":"amadoug2g-zuehlke\/AI_Note_Taking",
+        "description":"Flutter voice note app using Whisper API",
+        "stars":5,
+        "language":"Dart",
+        "html_url":"https:\/\/github.com\/amadoug2g-zuehlke\/AI_Note_Taking"
+    },
+    {
+        "name":"obsidian-weaver",
+        "full_name":"vasilecampeanu\/obsidian-weaver",
+        "description":"Weaver is an Obsidian plugin that integrates a ChatGPT-like interface into your note-taking workflow. This plugin makes it easy to access AI-generated suggestions and insights within Obsidian, helping you improve your writing and brainstorming process.",
+        "stars":215,
+        "language":"TypeScript",
+        "html_url":"https:\/\/github.com\/vasilecampeanu\/obsidian-weaver"
+    },
+    {
+        "name":"transcript-seeker",
+        "full_name":"Meeting-Baas\/transcript-seeker",
+        "description":"An open-source, browser-based transcript viewer and manager. Upload, transcribe, and chat with meeting recordings using AI. Features meeting bot integration, note-taking, and standalone mode",
+        "stars":40,
+        "language":"TypeScript",
+        "html_url":"https:\/\/github.com\/Meeting-Baas\/transcript-seeker"
+    },
+    {
+        "name":"NoteSpace-Frontend",
+        "full_name":"One-Project-One-Week\/NoteSpace-Frontend",
+        "description":"Your AI-Powered Note-Taking Universe",
+        "stars":5,
+        "language":"JavaScript",
+        "html_url":"https:\/\/github.com\/One-Project-One-Week\/NoteSpace-Frontend"
+    },
+    {
+        "name":"notesy-android",
+        "full_name":"manujainz\/notesy-android",
+        "description":"AI-Based Notes App designed to make the note-taking experience seamless and fluid.",
+        "stars":16,
+        "language":"Kotlin",
+        "html_url":"https:\/\/github.com\/manujainz\/notesy-android"
+    },
+    {
+        "name":"ai-note-app",
+        "full_name":"abhishekHegde2000\/ai-note-app",
+        "description":"Developed an AI-powered note-taking application using Next.js 14, ChatGPT API, vector embeddings, Pinecone, TailwindCSS, Shadcn UI, and TypeScript.",
+        "stars":14,
+        "language":"TypeScript",
+        "html_url":"https:\/\/github.com\/abhishekHegde2000\/ai-note-app"
+    },
+    {
+        "name":"ZettelGPT",
+        "full_name":"OverRaddit\/ZettelGPT",
+        "description":"Turbocharge Your Note-taking with AI Assistance",
+        "stars":21,
+        "language":"JavaScript",
+        "html_url":"https:\/\/github.com\/OverRaddit\/ZettelGPT"
+    },
+    {
+        "name":"note-taker",
+        "full_name":"locaal-ai\/note-taker",
+        "description":"A lo-fi AI-first note taker running locally on-device",
+        "stars":58,
+        "language":"Python",
+        "html_url":"https:\/\/github.com\/locaal-ai\/note-taker"
+    },
+    {
+        "name":"Whisper2Summarize",
+        "full_name":"AndreDalwin\/Whisper2Summarize",
+        "description":"Whisper2Summarize is an application that uses Whisper for audio processing and GPT for summarization. It generates summaries of audio transcripts quickly and accurately, making it ideal for a variety of use cases such as note-taking, research, and content creation.",
+        "stars":51,
+        "language":"Python",
+        "html_url":"https:\/\/github.com\/AndreDalwin\/Whisper2Summarize"
+    },
+    {
+        "name":"logseq-ai-assistant",
+        "full_name":"UNICKCHENG\/logseq-ai-assistant",
+        "description":"A Logseq plugin empowered by AI for effortless note-taking.",
+        "stars":6,
+        "language":"TypeScript",
+        "html_url":"https:\/\/github.com\/UNICKCHENG\/logseq-ai-assistant"
+    },
+    {
+        "name":"MemoMed",
+        "full_name":"aisemble\/MemoMed",
+        "description":"MemoMed: An AI-Powered Medical Transcription and Note-Taking Tool",
+        "stars":7,
+        "language":"Python",
+        "html_url":"https:\/\/github.com\/aisemble\/MemoMed"
+    },
+    {
+        "name":"obsidian-ai-note-suggestion",
+        "full_name":"echo-saurav\/obsidian-ai-note-suggestion",
+        "description":"An plugin for Obsidian.md for effortlessly get note suggestions base on semantic meaning as you type, eliminating the need for complex tagging. Simplifying note-taking",
+        "stars":35,
+        "language":"TypeScript",
+        "html_url":"https:\/\/github.com\/echo-saurav\/obsidian-ai-note-suggestion"
+    },
+    {
+        "name":"pixel-banner",
+        "full_name":"jparkerweb\/pixel-banner",
+        "description":"🚩 Enhance your Obsidian notes with customizable banner images, including AI-generated designs and a curated store of downloadable banners. Transform your workspace with visually stunning headers that add context, improve aesthetics, and take your note-taking beyond the ordinary.",
+        "stars":126,
+        "language":"JavaScript",
+        "html_url":"https:\/\/github.com\/jparkerweb\/pixel-banner"
+    }
+]
