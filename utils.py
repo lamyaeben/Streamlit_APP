@@ -199,7 +199,7 @@ def search_producthunt_no_cache(search_term: str):
     """
     # Configurer Selenium
     options = webdriver.ChromeOptions()
-    # options.add_argument("--headless")  # décommente pour exécuter sans interface
+    options.add_argument("--headless")  # décommente pour exécuter sans interface
     service = Service(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service, options=options)
 
