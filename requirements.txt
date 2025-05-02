@@ -8,3 +8,4 @@ requests
 google-play-scraper
 selenium
 webdriver-manager
+plotly.express
