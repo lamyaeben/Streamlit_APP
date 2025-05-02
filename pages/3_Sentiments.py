@@ -41,7 +41,7 @@ tab1, tab2 = st.tabs(["📊 Overview", "📈 Details"])
 with tab1:
     # 📈 Bar chart of sentiment scores (positive only)
     fig = px.bar(df_sentiments, x="title", y="score_sentiment", color="score_sentiment",
-                 color_continuous_scale="RdYlGn", title="Positive Sentiment Score of Apps")
+                 color_continuous_scale="RdYlGn", title="Positive Sentiment Score of Apps", text="text" )
     st.plotly_chart(fig, use_container_width=True)
 
 with tab2:
